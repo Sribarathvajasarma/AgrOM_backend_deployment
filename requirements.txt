@@ -9,4 +9,3 @@ numpy
 rdflib
 pydantic
 opencv-python
-os
